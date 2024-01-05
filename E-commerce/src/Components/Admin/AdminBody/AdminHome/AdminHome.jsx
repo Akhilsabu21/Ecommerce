@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 
 const AdminHome = () => {
   const [name, setName] = useState("")
+  const [count,setCount] = useState(true)
   const [catCount, setCatCount] = useState(0)
   const [proCount, setProCount] = useState(0)
   const getAdmin = async () => {
@@ -35,12 +36,12 @@ const AdminHome = () => {
     getAdmin()
     categoryCount()
     productCount()
-  }, [])
+  }, [count])
 
   return (
     <div className='flex me-5'>
 
-      <AdminNav />
+      <AdminNav triger={setCount}/>
 
       <div className="container mx-auto mt-6">
         <h1 className='text-center text-3xl'>Welcome {name}</h1>

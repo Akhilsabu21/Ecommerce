@@ -14,6 +14,7 @@ export default async function(req,res,next)
         req.user=auth;
         next();
     } catch (error) {
-        res.send("some error occure")
+        res.status(404).send(error)
+        // res.send({ msg: "time out" })
     }
 }

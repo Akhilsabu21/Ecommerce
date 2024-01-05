@@ -45,4 +45,19 @@ router.route('/singlepeoduct/:id').get(controller.singleProduct)
 router.route('/editproduct/:id').patch(upload.fields([{name:'thumbnile',maxCount:1},{name:"images"}]),controller.editProduct)
 
 //products 
+
+// user
+
+router.route('/addUser').post(controller.addUser);
+router.route("/userlogin").post(controller.userLogin);
+router.route("/userhome").get(Auth,controller.userHome);
+router.route('/addtocart/:id').post(controller.addToCart);
+router.route('/getcart/:userId').get(controller.getCart);
+router.route('/cartitemremove/:id').patch(controller.removeItem);
+router.route('/cartdecrement/:id').patch(controller.cartdecrement);
+router.route('/cartincrement/:id').patch(controller.cartincrement);
+router.route('/addAddress/:id').post(controller.addAddress);
+router.route('/placeorder').patch(controller.placeOrder);
+
+// user
 export default router;

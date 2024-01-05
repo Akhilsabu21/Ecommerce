@@ -40,9 +40,9 @@ const AdminForgot = () => {
     }
   }
   return (
-    <div>
+    <div className='flex me-5'>
       <AdminNav/>
-      <div className="form-body">
+      <div className="form-body mt-10 w-full">
 <form className="max-w-sm mx-auto sm-mx-1" onSubmit={Submit}>
   <div className="mb-5">
     <select className="bg-transparent shadow-sm  border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:border-gray-600 dark:placeholder-gray-400 dark:text-gray-800 dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" required  onChange={select} id="">

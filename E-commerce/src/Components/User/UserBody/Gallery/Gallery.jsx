@@ -1,4 +1,5 @@
 import React from 'react'
+import './Gallery.css'
 
 const Gallery = () => {
   return (
@@ -6,10 +7,10 @@ const Gallery = () => {
       <section className="text-gray-600 body-font">
   <div className="container px-5 pt-20 pb-14 mx-auto flex flex-wrap">
     <div className="flex w-full mb-20 flex-wrap">
-      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">
+      <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4 textZoomAnimation">
         <span className='text-[12px] block'>FIND INSPIRATION</span>
         THE TREND IS GLOW!!!!!!</h1>
-      <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eius doloremque eveniet. Provident quaerat sint tempora blanditiis vero voluptate at labore quas neque eligendi. Ea ex eius cupiditate placeat voluptates.</p>
+      <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base textZoomAnimation">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eius doloremque eveniet. Provident quaerat sint tempora blanditiis vero voluptate at labore quas neque eligendi. Ea ex eius cupiditate placeat voluptates.</p>
     </div>
     <div className="flex flex-wrap md:-m-2 -m-1">
       <div className="flex flex-wrap w-1/2">

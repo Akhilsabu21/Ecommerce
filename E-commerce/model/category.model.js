@@ -11,4 +11,4 @@ const categorySchema=mongoose.Schema({
     // Personal Care
 })
 
-export default mongoose.model.categories || mongoose.model('category', categorySchema);
+export default mongoose.model.categories || mongoose.model('category', categorySchema)

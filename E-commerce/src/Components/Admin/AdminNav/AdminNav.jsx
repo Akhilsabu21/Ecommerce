@@ -2,24 +2,24 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom'
 import './AdminNav.css'
 
-const AdminNav = () => {
+const AdminNav = ({triger}) => {
   const [open, setOpen] = useState(false);
-  const [count, setCount] = useState(0)
   const key = JSON.parse(localStorage.getItem('admintoken'));
   const logout = () => {
-    setCount(count + 1)
+    triger(false)
     localStorage.removeItem('admintoken');
   }
   console.log(open);
-  useEffect(() => { }, [count])
+  useEffect(() => { 
+  }, [])
   return (
     <div className={`${open ? "w-60" : "w-18"} min-h-screen h-auto transition ease-in duration-700 flex flex-col me-5 p-3 bg-white shadow bg-blue-100 side-bar`}>
       <div className="space-y-3">
         <div className="flex items-center p-2 space-y-1">
 
-          <img src='../public/images/Animation.gif' className='w-12 h-12' alt="" />
+          <img src='/Images/Animation.gif' className='w-12 h-12' alt="" />
 
-          <h2 className={`${!open && "hidden"}  p-2 duratio-700 text-xl font-bold text-blue-700`}>Zap</h2>
+          <h2 className={`${!open && "hidden"} p-2 duratio-700 text-xl font-bold text-blue-700`}>Zap</h2>
         </div>
         <div className="flex-1">
           <ul className="pt-2 pb-4 space-y-1 text-sm">

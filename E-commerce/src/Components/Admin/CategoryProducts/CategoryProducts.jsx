@@ -10,7 +10,7 @@ const CategoryProducts = () => {
     const [popup, setPopup] = useState(false);
     const [count, setCount] = useState(false)
     const [products, setProducts] = useState([]);
-    const [available,setAvailable]=useState(false)
+    // const [available,setAvailable]=useState(false)
 
     const getProducts = () => {
         axios.get('http://localhost:3003/api/getProducts')

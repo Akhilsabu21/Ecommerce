@@ -23,7 +23,7 @@ const AdminLogin = () => {
   
     const submit=async(e)=>{
       e.preventDefault()
-      await axios.post('http://localhost:3003/api/adminlogin',val)
+      axios.post('http://localhost:3003/api/adminlogin',val)
       .then((res)=>{
         console.log(res);
         localStorage.setItem("admintoken",JSON.stringify(res.data.token))

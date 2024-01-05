@@ -68,9 +68,15 @@ const Products = () => {
         })
     }
     const getPic = (e) => {
-        Object.values(e.target.files).forEach(file => {
-            setProductData((pre) => ({ ...pre, [e.target.name]: [...pre[e.target.name], file] }))
-        })
+        if(e.target.name=='thumbnile'){
+            Object.values(e.target.files).forEach(file => {
+                setProductData((pre) => ({ ...pre, [e.target.name]: [[e.target.name], file] }))
+            })
+        }else{
+            Object.values(e.target.files).forEach(file => {
+                setProductData((pre) => ({ ...pre, [e.target.name]: [...pre[e.target.name], file] }))
+            })
+        }
     }
 
     // console.log(productData);
