@@ -1,0 +1,14 @@
+.product-cards{
+    transform: translate3d(0, 200px, 0);
+    /* opacity: 0; */
+    transition-duration: 1.2s;
+    transition-timing-function: ease;
+ transition-duration: 1s; 
+transition-timing-function: ease;
+}
+.aos-animate {
+    /* animation: scale-up-ver-bottom 1s; */
+    /* transition-delay: 0.1s; */
+    transform: translate(0);
+    opacity: 1;
+      }

@@ -1,0 +1,17 @@
+.side-bar{
+    position: relative;
+}
+.side-btn{
+    position: absolute;
+    left: 100%;
+    top: 15px;
+    /* transform: translate(-50%, 0); */
+    /* border: 2px double rgb(0, 0, 84); */
+    color: rgb(0, 0, 84);
+    display: flex;
+    align-items: center;
+    border-radius:100%;
+}
+.side-btn span{
+    font-size: medium;
+}

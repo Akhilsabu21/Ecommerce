@@ -1,0 +1,1532 @@
+[{
+  "_id": {
+    "$oid": "658c65199cfce6bb8daf6d20"
+  },
+  "name": "Liquid Lipstick",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 185,
+  "sellingPrice": 198,
+  "rating": "4",
+  "description": "Make every morning a good morning with an energising lathering treat! The Man Company’s Bergamot & Mandarin Body Wash is gentle yet energetic, making you feel like you're zesting in the morning sun.",
+  "stock": 0,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "LipStic.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "LipStic.png",
+      "path": "Products\\LipStic.png",
+      "size": 99000
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "lipstick-with-brush.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "lipstick-with-brush.jpg",
+      "path": "Products\\lipstick-with-brush.jpg",
+      "size": 34295
+    },
+    {
+      "fieldname": "images",
+      "originalname": "LiquidMatteLipstick.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "LiquidMatteLipstick.jpg",
+      "path": "Products\\LiquidMatteLipstick.jpg",
+      "size": 36143
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c65ca9cfce6bb8daf6d2d"
+  },
+  "name": "No Budge Retractable Eyeliner",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 175,
+  "sellingPrice": 189,
+  "rating": "3",
+  "description": " A water-resistant retractable eyeliner pencil with a rich, creamy formula and incredible staying power.",
+  "stock": 33,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Eyeliner-stick.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Eyeliner-stick.png",
+      "path": "Products\\Eyeliner-stick.png",
+      "size": 44993
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile1.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile1.jpg",
+      "path": "Products\\eyeliner thumnile1.jpg",
+      "size": 452378
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile2.jpg",
+      "path": "Products\\eyeliner thumnile2.jpg",
+      "size": 397280
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile3.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile3.jpg",
+      "path": "Products\\eyeliner thumnile3.jpg",
+      "size": 111828
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c66c39cfce6bb8daf6d38"
+  },
+  "name": "Inkwell Eyeliner",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 155,
+  "sellingPrice": 179,
+  "rating": "5",
+  "description": "A long-lasting, waterproof liquid eyeliner that delivers high-pigment color for graphic eye looks.",
+  "stock": -12,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Inkwell Eyeliner.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Inkwell Eyeliner.png",
+      "path": "Products\\Inkwell Eyeliner.png",
+      "size": 39038
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile1.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile1.jpg",
+      "path": "Products\\eyeliner thumnile1.jpg",
+      "size": 6864
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile2.jpg",
+      "path": "Products\\eyeliner thumnile2.jpg",
+      "size": 2725
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile3.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile3.jpg",
+      "path": "Products\\eyeliner thumnile3.jpg",
+      "size": 39470
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile4.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile4.jpg",
+      "path": "Products\\eyeliner thumnile4.jpg",
+      "size": 46428
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6aff9cfce6bb8daf6db5"
+  },
+  "name": "Expert Liquid Liner",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 144,
+  "sellingPrice": 155,
+  "rating": "5",
+  "description": "A high-pigment liquid eyeliner with an extra-fine brush tip to create precise definition that won’t smudge.",
+  "stock": 9,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Expert_Liquid_Liner.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Expert_Liquid_Liner.png",
+      "path": "Products\\Expert_Liquid_Liner.png",
+      "size": 48956
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile1.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile1.jpg",
+      "path": "Products\\eyeliner thumnile1.jpg",
+      "size": 36055
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile2.jpg",
+      "path": "Products\\eyeliner thumnile2.jpg",
+      "size": 24211
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile3.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile3.jpg",
+      "path": "Products\\eyeliner thumnile3.jpg",
+      "size": 6672
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6c6a9cfce6bb8daf6dc0"
+  },
+  "name": "No Budge Shadow Stick",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 144,
+  "sellingPrice": 135,
+  "rating": "5",
+  "description": " A versatile cream eyeshadow stick that delivers high-pigment, metallic color with stay-put power.",
+  "stock": 10,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "No_BudgeShadowStick.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "No_BudgeShadowStick.png",
+      "path": "Products\\No_BudgeShadowStick.png",
+      "size": 43390
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "81665_BRFAC_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81665_BRFAC_Closed_R.jpg",
+      "path": "Products\\81665_BRFAC_Closed_R.jpg",
+      "size": 9090
+    },
+    {
+      "fieldname": "images",
+      "originalname": "No Budge Shadow Stick.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "No Budge Shadow Stick.jpg",
+      "path": "Products\\No Budge Shadow Stick.jpg",
+      "size": 10632
+    },
+    {
+      "fieldname": "images",
+      "originalname": "PDP_NoBudgeShadowSticks_ArmSwatch.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "PDP_NoBudgeShadowSticks_ArmSwatch.jpg",
+      "path": "Products\\PDP_NoBudgeShadowSticks_ArmSwatch.jpg",
+      "size": 31485
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6d229cfce6bb8daf6dcb"
+  },
+  "name": "Liquid Glitter Eyeshadow",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 125,
+  "sellingPrice": 126,
+  "rating": "4",
+  "description": "Allure Best of Beauty award-winning Liquid Glitter Eyeshadow",
+  "stock": 35,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Liquid Glitter Eyeshadow.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Liquid Glitter Eyeshadow.png",
+      "path": "Products\\Liquid Glitter Eyeshadow.png",
+      "size": 72325
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "83442_OpenA_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "83442_OpenA_R.jpg",
+      "path": "Products\\83442_OpenA_R.jpg",
+      "size": 16774
+    },
+    {
+      "fieldname": "images",
+      "originalname": "EYSHA_83442_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "EYSHA_83442_Closed_R.jpg",
+      "path": "Products\\EYSHA_83442_Closed_R.jpg",
+      "size": 12333
+    },
+    {
+      "fieldname": "images",
+      "originalname": "LG_OM_LiquidGlitterEyeshadow_SwatchA_1168_labels_crop.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "LG_OM_LiquidGlitterEyeshadow_SwatchA_1168_labels_crop.jpg",
+      "path": "Products\\LG_OM_LiquidGlitterEyeshadow_SwatchA_1168_labels_crop.jpg",
+      "size": 52882
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6de59cfce6bb8daf6dd6"
+  },
+  "name": "Putty Color-Correcting Eye Brightener",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 199,
+  "sellingPrice": 219,
+  "rating": "4",
+  "description": "An under-eye brightener that works to correct the appearance of dark circles and illuminate the under-eye area for a refreshed look.",
+  "stock": 8,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Correcting Eye Brightener.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Correcting Eye Brightener.png",
+      "path": "Products\\Correcting Eye Brightener.png",
+      "size": 81308
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_PUTTY_EYE_BRIGHTENER_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_PUTTY_EYE_BRIGHTENER_PRODUCTINFO.jpg",
+      "path": "Products\\0623_EDUCATION_PUTTY_EYE_BRIGHTENER_PRODUCTINFO.jpg",
+      "size": 113390
+    },
+    {
+      "fieldname": "images",
+      "originalname": "032023_EyeBrightener-Group_Main-2_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "032023_EyeBrightener-Group_Main-2_IGF.jpg",
+      "path": "Products\\032023_EyeBrightener-Group_Main-2_IGF.jpg",
+      "size": 191976
+    },
+    {
+      "fieldname": "images",
+      "originalname": "82086_OpenA_0621_V2_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "82086_OpenA_0621_V2_R.jpg",
+      "path": "Products\\82086_OpenA_0621_V2_R.jpg",
+      "size": 42182
+    },
+    {
+      "fieldname": "images",
+      "originalname": "B_A_Putty_Eye_Brightener.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "B_A_Putty_Eye_Brightener.jpg",
+      "path": "Products\\B_A_Putty_Eye_Brightener.jpg",
+      "size": 283132
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6eb19cfce6bb8daf6de1"
+  },
+  "name": "FACE Satin Lipstick",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 178,
+  "sellingPrice": 229,
+  "rating": "4",
+  "description": "A satin-finish lipstick that delivers all the rich color you’re craving in a comfortable formula that lasts. ",
+  "stock": 50,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "FACE Satin Lipstick.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "FACE Satin Lipstick.png",
+      "path": "Products\\FACE Satin Lipstick.png",
+      "size": 45330
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "1222_EDUCATION_NEWARRIVALS_OFACE_PRODUCTINFO_V02.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "1222_EDUCATION_NEWARRIVALS_OFACE_PRODUCTINFO_V02.jpg",
+      "path": "Products\\1222_EDUCATION_NEWARRIVALS_OFACE_PRODUCTINFO_V02.jpg",
+      "size": 73101
+    },
+    {
+      "fieldname": "images",
+      "originalname": "81789_NoRegrets_LIPGRID.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81789_NoRegrets_LIPGRID.jpg",
+      "path": "Products\\81789_NoRegrets_LIPGRID.jpg",
+      "size": 117277
+    },
+    {
+      "fieldname": "images",
+      "originalname": "81789_OPEN_A_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81789_OPEN_A_R.jpg",
+      "path": "Products\\81789_OPEN_A_R.jpg",
+      "size": 23151
+    },
+    {
+      "fieldname": "images",
+      "originalname": "81789_Swatch.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81789_Swatch.jpg",
+      "path": "Products\\81789_Swatch.jpg",
+      "size": 38745
+    },
+    {
+      "fieldname": "images",
+      "originalname": "O_Face_Arm_1_TEXT.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "O_Face_Arm_1_TEXT.jpg",
+      "path": "Products\\O_Face_Arm_1_TEXT.jpg",
+      "size": 114438
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c6f659cfce6bb8daf6dec"
+  },
+  "name": "Sheer Slick Lipstick Black Cherry",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 120,
+  "sellingPrice": 150,
+  "rating": "5",
+  "description": "Our fan-fave sheer lipstick is back with its silky, nourishing formula that gives lips a subtle hint of color and gorgeous sheen.",
+  "stock": 41,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Sheer Slick Lipstick Black Cherry.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Sheer Slick Lipstick Black Cherry.png",
+      "path": "Products\\Sheer Slick Lipstick Black Cherry.png",
+      "size": 60253
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "0723_EDU_PDP_SHEERSLICK_BLACKCHERRY_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0723_EDU_PDP_SHEERSLICK_BLACKCHERRY_PRODUCTINFO.jpg",
+      "path": "Products\\0723_EDU_PDP_SHEERSLICK_BLACKCHERRY_PRODUCTINFO.jpg",
+      "size": 196119
+    },
+    {
+      "fieldname": "images",
+      "originalname": "032023_SheerSlick-Group_Main-2_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "032023_SheerSlick-Group_Main-2_IGF.jpg",
+      "path": "Products\\032023_SheerSlick-Group_Main-2_IGF.jpg",
+      "size": 99084
+    },
+    {
+      "fieldname": "images",
+      "originalname": "82158_LPSTK_LipChart 4.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "82158_LPSTK_LipChart 4.jpg",
+      "path": "Products\\82158_LPSTK_LipChart 4.jpg",
+      "size": 120522
+    },
+    {
+      "fieldname": "images",
+      "originalname": "82158_OpenA_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "82158_OpenA_R.jpg",
+      "path": "Products\\82158_OpenA_R.jpg",
+      "size": 74285
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c70309cfce6bb8daf6e09"
+  },
+  "name": "Lip Exfoliator",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 144,
+  "sellingPrice": 154,
+  "rating": "5",
+  "description": "Our iconic sugar lip exfoliator that gently removes dry, dead skin - now in a new and improved formula and packaging for even softer, smoother lips.",
+  "stock": 4,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Lip Exfoliator.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Lip Exfoliator.png",
+      "path": "Products\\Lip Exfoliator.png",
+      "size": 45906
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_LIPEXFOLIATOR_NEWANDIMPROVED.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_LIPEXFOLIATOR_NEWANDIMPROVED.jpg",
+      "path": "Products\\0623_EDUCATION_LIPEXFOLIATOR_NEWANDIMPROVED.jpg",
+      "size": 101355
+    },
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_LIPEXFOLIATOR_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_LIPEXFOLIATOR_PRODUCTINFO.jpg",
+      "path": "Products\\0623_EDUCATION_LIPEXFOLIATOR_PRODUCTINFO.jpg",
+      "size": 89553
+    },
+    {
+      "fieldname": "images",
+      "originalname": "83475_OpenA_0553_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "83475_OpenA_0553_R.jpg",
+      "path": "Products\\83475_OpenA_0553_R.jpg",
+      "size": 58879
+    },
+    {
+      "fieldname": "images",
+      "originalname": "111621_ELF_LIP_SCRUB_0556_RGB_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "111621_ELF_LIP_SCRUB_0556_RGB_IGF.jpg",
+      "path": "Products\\111621_ELF_LIP_SCRUB_0556_RGB_IGF.jpg",
+      "size": 411863
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c70ce9cfce6bb8daf6e14"
+  },
+  "name": "Squeeze Me Lip Balm",
+  "category": "65846b11467a27e3a54bde05",
+  "categoryName": "make-up",
+  "originalPrice": 165,
+  "sellingPrice": 185,
+  "rating": "4",
+  "description": "A moisturizing lip balm that hydrates with a sheer tint of color, all in a squeeze tube for easy application.",
+  "stock": 25,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Squeeze Me Lip Balm.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Squeeze Me Lip Balm.png",
+      "path": "Products\\Squeeze Me Lip Balm.png",
+      "size": 61032
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_SQUEEZEME_LIPBALM_NEWANDIMPROVED.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_SQUEEZEME_LIPBALM_NEWANDIMPROVED.jpg",
+      "path": "Products\\0623_EDUCATION_SQUEEZEME_LIPBALM_NEWANDIMPROVED.jpg",
+      "size": 88415
+    },
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_SQUEEZEME_LIPBALM_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_SQUEEZEME_LIPBALM_PRODUCTINFO.jpg",
+      "path": "Products\\0623_EDUCATION_SQUEEZEME_LIPBALM_PRODUCTINFO.jpg",
+      "size": 129970
+    },
+    {
+      "fieldname": "images",
+      "originalname": "0623_EDUCATION_SQUEEZEME_LIPBALM_SCENTS.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0623_EDUCATION_SQUEEZEME_LIPBALM_SCENTS.jpg",
+      "path": "Products\\0623_EDUCATION_SQUEEZEME_LIPBALM_SCENTS.jpg",
+      "size": 102808
+    },
+    {
+      "fieldname": "images",
+      "originalname": "81958_OpenA_0500_V3_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81958_OpenA_0500_V3_R.jpg",
+      "path": "Products\\81958_OpenA_0500_V3_R.jpg",
+      "size": 28644
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c718e9cfce6bb8daf6e1f"
+  },
+  "name": "Holy Hydration! Gel-Yeah Moisturizer",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 249,
+  "sellingPrice": 259,
+  "rating": "4",
+  "description": "A bouncy gel moisturizer that delivers a refreshing surge of hydration for plumped-up, balanced and hydrated skin.",
+  "stock": 17,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Holy Hydration! Gel-Yeah Moisturizer.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Holy Hydration! Gel-Yeah Moisturizer.png",
+      "path": "Products\\Holy Hydration! Gel-Yeah Moisturizer.png",
+      "size": 123826
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "0124_EDUCATION_NEWARRIVALS_HH_GELYEAH_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "0124_EDUCATION_NEWARRIVALS_HH_GELYEAH_PRODUCTINFO.jpg",
+      "path": "Products\\0124_EDUCATION_NEWARRIVALS_HH_GELYEAH_PRODUCTINFO.jpg",
+      "size": 119702
+    },
+    {
+      "fieldname": "images",
+      "originalname": "57430_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "57430_Closed_R.jpg",
+      "path": "Products\\57430_Closed_R.jpg",
+      "size": 53134
+    },
+    {
+      "fieldname": "images",
+      "originalname": "57430_OpenA_V2_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "57430_OpenA_V2_R.jpg",
+      "path": "Products\\57430_OpenA_V2_R.jpg",
+      "size": 27213
+    },
+    {
+      "fieldname": "images",
+      "originalname": "060623_Ravyanshi_DewyFace_247_v3_RGB_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "060623_Ravyanshi_DewyFace_247_v3_RGB_IGF.jpg",
+      "path": "Products\\060623_Ravyanshi_DewyFace_247_v3_RGB_IGF.jpg",
+      "size": 200799
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c72339cfce6bb8daf6e2a"
+  },
+  "name": "Suntouchable! Whoa Glow SPF 30",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 249,
+  "sellingPrice": 279,
+  "rating": "4",
+  "description": "A lightweight, broad-spectrum SPF 30 sunscreen that doubles as a makeup primer and leaves skin with a glowing radiance.",
+  "stock": 27,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Suntouchable! Whoa Glow SPF 30.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Suntouchable! Whoa Glow SPF 30.png",
+      "path": "Products\\Suntouchable! Whoa Glow SPF 30.png",
+      "size": 81742
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_HOWTOAPPLY.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_HOWTOAPPLY.jpg",
+      "path": "Products\\1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_HOWTOAPPLY.jpg",
+      "size": 189264
+    },
+    {
+      "fieldname": "images",
+      "originalname": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_INGREDIENTEDU.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_INGREDIENTEDU.jpg",
+      "path": "Products\\1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_INGREDIENTEDU.jpg",
+      "size": 182944
+    },
+    {
+      "fieldname": "images",
+      "originalname": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_PRODUCTINFO.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_PRODUCTINFO.jpg",
+      "path": "Products\\1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_PRODUCTINFO.jpg",
+      "size": 123286
+    },
+    {
+      "fieldname": "images",
+      "originalname": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_TEXTUREPAYOUT.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_TEXTUREPAYOUT.jpg",
+      "path": "Products\\1222_EDUCATION_NEWARRIVALS_WHOA_GLOW_TEXTUREPAYOUT.jpg",
+      "size": 149578
+    },
+    {
+      "fieldname": "images",
+      "originalname": "57278_ArmSwatch_ALL_0193_V4.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "57278_ArmSwatch_ALL_0193_V4.jpg",
+      "path": "Products\\57278_ArmSwatch_ALL_0193_V4.jpg",
+      "size": 88736
+    },
+    {
+      "fieldname": "images",
+      "originalname": "57278_CLOSED_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "57278_CLOSED_R.jpg",
+      "path": "Products\\57278_CLOSED_R.jpg",
+      "size": 38626
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c72d19cfce6bb8daf6e35"
+  },
+  "name": "Holy Hydration! Hydro-Gel Moisturizer",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 239,
+  "sellingPrice": 289,
+  "rating": "5",
+  "description": "A lightweight gel moisturizer formulated with skin-loving ingredients to promote a plumped up complexion that stays hydrated all day long.",
+  "stock": 35,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Holy Hydration! Hydro-Gel Moisturizer.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Holy Hydration! Hydro-Gel Moisturizer.png",
+      "path": "Products\\Holy Hydration! Hydro-Gel Moisturizer.png",
+      "size": 71450
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "040121_SL-HH-Gel_Moisturizer_Texture_0001-COMP-2b_1_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "040121_SL-HH-Gel_Moisturizer_Texture_0001-COMP-2b_1_IGF.jpg",
+      "path": "Products\\040121_SL-HH-Gel_Moisturizer_Texture_0001-COMP-2b_1_IGF.jpg",
+      "size": 37819
+    },
+    {
+      "fieldname": "images",
+      "originalname": "59905_SCMOI_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "59905_SCMOI_Closed_R.jpg",
+      "path": "Products\\59905_SCMOI_Closed_R.jpg",
+      "size": 27022
+    },
+    {
+      "fieldname": "images",
+      "originalname": "59905_SCMOI_OpenA_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "59905_SCMOI_OpenA_R.jpg",
+      "path": "Products\\59905_SCMOI_OpenA_R.jpg",
+      "size": 31084
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c735e9cfce6bb8daf6e40"
+  },
+  "name": "Blemish Breakthrough Triple-Acid Resurfacing Serum",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 289,
+  "sellingPrice": 299,
+  "rating": "5",
+  "description": "A dermatologist-developed, 8.5% triple-acid serum that helps improve skin tone and texture post-breakouts.",
+  "stock": 37,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Blemish Breakthrough Triple-Acid Resurfacing Serum.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Blemish Breakthrough Triple-Acid Resurfacing Serum.png",
+      "path": "Products\\Blemish Breakthrough Triple-Acid Resurfacing Serum.png",
+      "size": 53976
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "57562_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "57562_Closed_R.jpg",
+      "path": "Products\\57562_Closed_R.jpg",
+      "size": 25514
+    },
+    {
+      "fieldname": "images",
+      "originalname": "Acne_PDP_Marley_Before_After.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "Acne_PDP_Marley_Before_After.jpg",
+      "path": "Products\\Acne_PDP_Marley_Before_After.jpg",
+      "size": 184649
+    },
+    {
+      "fieldname": "images",
+      "originalname": "BLEMISH_BREAKTHROUGH_REGIMEN_PRODUCT_INFO_PDPIGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "BLEMISH_BREAKTHROUGH_REGIMEN_PRODUCT_INFO_PDPIGF.jpg",
+      "path": "Products\\BLEMISH_BREAKTHROUGH_REGIMEN_PRODUCT_INFO_PDPIGF.jpg",
+      "size": 106277
+    },
+    {
+      "fieldname": "images",
+      "originalname": "BLEMISH_BREAKTHROUGH_SERUM_PRODUCT_INFO_PDPIGF-2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "BLEMISH_BREAKTHROUGH_SERUM_PRODUCT_INFO_PDPIGF-2.jpg",
+      "path": "Products\\BLEMISH_BREAKTHROUGH_SERUM_PRODUCT_INFO_PDPIGF-2.jpg",
+      "size": 114803
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c741d9cfce6bb8daf6e49"
+  },
+  "name": "Holy Hydration! Daily Cleanser",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 120,
+  "sellingPrice": 139,
+  "rating": "5",
+  "description": "A gel-based foaming daily cleanser that helps wash away excess oil, impurities and makeup.",
+  "stock": 5,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Holy Hydration! Daily Cleanser.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Holy Hydration! Daily Cleanser.png",
+      "path": "Products\\Holy Hydration! Daily Cleanser.png",
+      "size": 77724
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "040522_Holy_Hydration_Daily_Cleanser_0009_IGF.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "040522_Holy_Hydration_Daily_Cleanser_0009_IGF.jpg",
+      "path": "Products\\040522_Holy_Hydration_Daily_Cleanser_0009_IGF.jpg",
+      "size": 193670
+    },
+    {
+      "fieldname": "images",
+      "originalname": "59990_SCCLE_Closed_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "59990_SCCLE_Closed_R.jpg",
+      "path": "Products\\59990_SCCLE_Closed_R.jpg",
+      "size": 34608
+    },
+    {
+      "fieldname": "images",
+      "originalname": "59990_SCCLE_OpenA_R.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "59990_SCCLE_OpenA_R.jpg",
+      "path": "Products\\59990_SCCLE_OpenA_R.jpg",
+      "size": 32574
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c7ba9306aa0a520d0b60d"
+  },
+  "name": "Perfumed Body Wash",
+  "category": "658be31e5de6b0aae851fee7",
+  "categoryName": "Personal Care",
+  "originalPrice": 280,
+  "sellingPrice": 289,
+  "rating": "5",
+  "description": "Pamper your skin with a luscious fragrance! Give yourself an aromatic reason to wake up every morning.",
+  "stock": 55,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Perfumed Body Wash.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Perfumed Body Wash.png",
+      "path": "Products\\Perfumed Body Wash.png",
+      "size": 89971
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "d051b948907367032274_1.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "d051b948907367032274_1.jpg",
+      "path": "Products\\d051b948907367032274_1.jpg",
+      "size": 69824
+    },
+    {
+      "fieldname": "images",
+      "originalname": "d051b948907367032274_2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "d051b948907367032274_2.jpg",
+      "path": "Products\\d051b948907367032274_2.jpg",
+      "size": 236669
+    },
+    {
+      "fieldname": "images",
+      "originalname": "d051b948907367032274_4.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "d051b948907367032274_4.jpg",
+      "path": "Products\\d051b948907367032274_4.jpg",
+      "size": 199295
+    },
+    {
+      "fieldname": "images",
+      "originalname": "d051b948907367032274_5.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "d051b948907367032274_5.jpg",
+      "path": "Products\\d051b948907367032274_5.jpg",
+      "size": 213502
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c7d516788eeca5ce2f666"
+  },
+  "name": "The Man Company Bergamot & Mandarin Body Wash",
+  "category": "658be31e5de6b0aae851fee7",
+  "categoryName": "Personal Care",
+  "originalPrice": 155,
+  "sellingPrice": 165,
+  "rating": "5",
+  "description": "Make every morning a good morning with an energising lathering treat! The Man Company’s Bergamot & Mandarin Body Wash is gentle yet energetic, making you feel like you're zesting in the morning sun.",
+  "stock": 25,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "The_Man_Company_Bergamot___Mandarin_Body_Wash-removebg-preview.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "The_Man_Company_Bergamot___Mandarin_Body_Wash-removebg-preview.png",
+      "path": "Products\\The_Man_Company_Bergamot___Mandarin_Body_Wash-removebg-preview.png",
+      "size": 120817
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "2a1069a8907367028208_3.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "2a1069a8907367028208_3.jpg",
+      "path": "Products\\2a1069a8907367028208_3.jpg",
+      "size": 140083
+    },
+    {
+      "fieldname": "images",
+      "originalname": "2a1069a8907367028208_4.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "2a1069a8907367028208_4.jpg",
+      "path": "Products\\2a1069a8907367028208_4.jpg",
+      "size": 170413
+    },
+    {
+      "fieldname": "images",
+      "originalname": "2a1069a8907367028208_5.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "2a1069a8907367028208_5.jpg",
+      "path": "Products\\2a1069a8907367028208_5.jpg",
+      "size": 98335
+    },
+    {
+      "fieldname": "images",
+      "originalname": "The Man Company Bergamot & Mandarin Body Wash.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "The Man Company Bergamot & Mandarin Body Wash.jpg",
+      "path": "Products\\The Man Company Bergamot & Mandarin Body Wash.jpg",
+      "size": 48161
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c7f7c6788eeca5ce2f671"
+  },
+  "name": "Smoothing Conditioner",
+  "category": "65846b2a467a27e3a54bde07",
+  "categoryName": "Hair care",
+  "originalPrice": 128,
+  "sellingPrice": 139,
+  "rating": "4",
+  "description": "Find freedom from frizz with this salon-grade conditioner that enhances your natural texture by locking in moisture and smoothing flyaways. Fortified with amino acids, this formula adds shine, improves manageability, and helps prevent damage. Smooth on to nourish hair from root to tip and bring on the gloss! ",
+  "stock": 17,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Smoothing Conditioner.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Smoothing Conditioner.png",
+      "path": "Products\\Smoothing Conditioner.png",
+      "size": 78958
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "01_Odele_LK_Green_V4_MAIN_6621V2_1200x1550_ad99e039-d60a-4a43-8192-86b0cb07bf63_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "01_Odele_LK_Green_V4_MAIN_6621V2_1200x1550_ad99e039-d60a-4a43-8192-86b0cb07bf63_700x.jpg",
+      "path": "Products\\01_Odele_LK_Green_V4_MAIN_6621V2_1200x1550_ad99e039-d60a-4a43-8192-86b0cb07bf63_700x.jpg",
+      "size": 64930
+    },
+    {
+      "fieldname": "images",
+      "originalname": "09_Odele_LK_Conceptual_0338_1200x1550_d92cc084-439e-43db-8c18-a6b9566888b3_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "09_Odele_LK_Conceptual_0338_1200x1550_d92cc084-439e-43db-8c18-a6b9566888b3_700x.jpg",
+      "path": "Products\\09_Odele_LK_Conceptual_0338_1200x1550_d92cc084-439e-43db-8c18-a6b9566888b3_700x.jpg",
+      "size": 87157
+    },
+    {
+      "fieldname": "images",
+      "originalname": "SmoothingConditioner_1200x1550_78912724-d3e3-475c-bd48-80b02cee61fb_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "SmoothingConditioner_1200x1550_78912724-d3e3-475c-bd48-80b02cee61fb_700x.jpg",
+      "path": "Products\\SmoothingConditioner_1200x1550_78912724-d3e3-475c-bd48-80b02cee61fb_700x.jpg",
+      "size": 39460
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c80ea6788eeca5ce2f67a"
+  },
+  "name": "Leave-in Detangling Tonic",
+  "category": "65846b2a467a27e3a54bde07",
+  "categoryName": "Hair care",
+  "originalPrice": 159,
+  "sellingPrice": 189,
+  "rating": "5",
+  "description": "An effective multitasker, this salon-grade lightweight leave-in is milky magic. Fortified with amino acids and plant proteins that promote hair health over time, this tonic hydrates, detangles, adds shine and helps protect hair against environmental damage and heat styling on the daily.",
+  "stock": 19,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Leave-in Detangling Tonic.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Leave-in Detangling Tonic.png",
+      "path": "Products\\Leave-in Detangling Tonic.png",
+      "size": 99258
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "04_FancyThatStories_Odele_4808_1200x1550_dadedf9e-f369-437d-90b0-8d7ce7d663ea_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "04_FancyThatStories_Odele_4808_1200x1550_dadedf9e-f369-437d-90b0-8d7ce7d663ea_700x.jpg",
+      "path": "Products\\04_FancyThatStories_Odele_4808_1200x1550_dadedf9e-f369-437d-90b0-8d7ce7d663ea_700x.jpg",
+      "size": 109932
+    },
+    {
+      "fieldname": "images",
+      "originalname": "c5-LindsayHolden_r1_MIN_7988_1200x1550_b75f0f58-d67a-4441-8677-c2385283265e_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "c5-LindsayHolden_r1_MIN_7988_1200x1550_b75f0f58-d67a-4441-8677-c2385283265e_700x.jpg",
+      "path": "Products\\c5-LindsayHolden_r1_MIN_7988_1200x1550_b75f0f58-d67a-4441-8677-c2385283265e_700x.jpg",
+      "size": 116388
+    },
+    {
+      "fieldname": "images",
+      "originalname": "LeaveInDetanglingTonicBack_1200x1550_f109bb6c-b750-4e50-993b-827c60922f5c_700x.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "LeaveInDetanglingTonicBack_1200x1550_f109bb6c-b750-4e50-993b-827c60922f5c_700x.jpg",
+      "path": "Products\\LeaveInDetanglingTonicBack_1200x1550_f109bb6c-b750-4e50-993b-827c60922f5c_700x.jpg",
+      "size": 59818
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658cedd96788eeca5ce2f691"
+  },
+  "name": "Vasotsm Cupid Touch Cologne",
+  "category": "65846b50467a27e3a54bde09",
+  "categoryName": "Fragrances",
+  "originalPrice": 259,
+  "sellingPrice": 299,
+  "rating": "5",
+  "description": "The rich citrus fragrance and cool mint fragrance bring a burst of freshness, release your confidence, enhance your self-confidence, and leave an unforgettable impression.",
+  "stock": 32,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "fragrance.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "fragrance.png",
+      "path": "Products\\fragrance.png",
+      "size": 131931
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "51n8wzphkCL.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "51n8wzphkCL.jpg",
+      "path": "Products\\51n8wzphkCL.jpg",
+      "size": 33528
+    },
+    {
+      "fieldname": "images",
+      "originalname": "51ND6PlxZ6L.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "51ND6PlxZ6L.jpg",
+      "path": "Products\\51ND6PlxZ6L.jpg",
+      "size": 33619
+    },
+    {
+      "fieldname": "images",
+      "originalname": "51ydsJZ5aPL._SX466_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "51ydsJZ5aPL._SX466_.jpg",
+      "path": "Products\\51ydsJZ5aPL._SX466_.jpg",
+      "size": 14820
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ceeb66788eeca5ce2f69c"
+  },
+  "name": "RawChemistry Bliss Pheromone Perfume for Women",
+  "category": "65846b50467a27e3a54bde09",
+  "categoryName": "Fragrances",
+  "originalPrice": 299,
+  "sellingPrice": 310,
+  "rating": "4",
+  "description": "FORMULA - Formulated to be enticing and attention grabbing. Made with our proprietary blend of scents and oils to entice and attract.",
+  "stock": 21,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Bliss Perfume for Women.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Bliss Perfume for Women.png",
+      "path": "Products\\Bliss Perfume for Women.png",
+      "size": 48294
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "81BiaNYwkbL._SL1500_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81BiaNYwkbL._SL1500_.jpg",
+      "path": "Products\\81BiaNYwkbL._SL1500_.jpg",
+      "size": 179672
+    },
+    {
+      "fieldname": "images",
+      "originalname": "618q46lJzVL._SL1500_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "618q46lJzVL._SL1500_.jpg",
+      "path": "Products\\618q46lJzVL._SL1500_.jpg",
+      "size": 32939
+    },
+    {
+      "fieldname": "images",
+      "originalname": "713M7IzUqmL._SX466_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "713M7IzUqmL._SX466_.jpg",
+      "path": "Products\\713M7IzUqmL._SX466_.jpg",
+      "size": 15406
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658cef656788eeca5ce2f6a7"
+  },
+  "name": "RawChemistry Delight Attracting Pheromone Perfume for Women",
+  "category": "65846b50467a27e3a54bde09",
+  "categoryName": "Fragrances",
+  "originalPrice": 299,
+  "sellingPrice": 309,
+  "rating": "4",
+  "description": "FORMULA - Formulated to be enticing and attention grabbing. Made with our proprietary blend of scents and oils to entice and attract.",
+  "stock": 45,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Raw Delight Attracting Pheromone Perfume.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Raw Delight Attracting Pheromone Perfume.png",
+      "path": "Products\\Raw Delight Attracting Pheromone Perfume.png",
+      "size": 46957
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "41HTpeGJwyL._SY300_SX300_QL70_FMwebp_.webp",
+      "encoding": "7bit",
+      "mimetype": "image/webp",
+      "destination": "./Products",
+      "filename": "41HTpeGJwyL._SY300_SX300_QL70_FMwebp_.webp",
+      "path": "Products\\41HTpeGJwyL._SY300_SX300_QL70_FMwebp_.webp",
+      "size": 4914
+    },
+    {
+      "fieldname": "images",
+      "originalname": "51MID5ZF0eL._SS40_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "51MID5ZF0eL._SS40_.jpg",
+      "path": "Products\\51MID5ZF0eL._SS40_.jpg",
+      "size": 1004
+    },
+    {
+      "fieldname": "images",
+      "originalname": "61QAgjmeh+L._SX466_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "61QAgjmeh+L._SX466_.jpg",
+      "path": "Products\\61QAgjmeh+L._SX466_.jpg",
+      "size": 7911
+    },
+    {
+      "fieldname": "images",
+      "originalname": "81LVyIRrZgL._SX466_.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "81LVyIRrZgL._SX466_.jpg",
+      "path": "Products\\81LVyIRrZgL._SX466_.jpg",
+      "size": 24952
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d3943608835bd25765dde"
+  },
+  "name": "Eyeliner Pen",
+  "category": "65846ac9467a27e3a54bde03",
+  "categoryName": "Skin Care",
+  "originalPrice": 185,
+  "sellingPrice": 189,
+  "rating": "5",
+  "description": "This eyeliner pen enhances the lash line with rich color.",
+  "stock": 55,
+  "thumbnile": [
+    {
+      "fieldname": "thumbnile",
+      "originalname": "Eyeliner_Pen.png",
+      "encoding": "7bit",
+      "mimetype": "image/png",
+      "destination": "./Products",
+      "filename": "Eyeliner_Pen.png",
+      "path": "Products\\Eyeliner_Pen.png",
+      "size": 36588
+    }
+  ],
+  "images": [
+    {
+      "fieldname": "images",
+      "originalname": "Eyeliner Pen.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "Eyeliner Pen.jpg",
+      "path": "Products\\Eyeliner Pen.jpg",
+      "size": 5239
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile1.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile1.jpg",
+      "path": "Products\\eyeliner thumnile1.jpg",
+      "size": 14804
+    },
+    {
+      "fieldname": "images",
+      "originalname": "eyeliner thumnile2.jpg",
+      "encoding": "7bit",
+      "mimetype": "image/jpeg",
+      "destination": "./Products",
+      "filename": "eyeliner thumnile2.jpg",
+      "path": "Products\\eyeliner thumnile2.jpg",
+      "size": 139280
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+.carousel-inner img {
+  width: 100%;
+}
+
+.item {
+  height: 500px;
+}
+
+.c-details{
+  animation:  slide-left 1s;
+}
+
+@keyframes slide-left {
+  0% {
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+  50% {
+    -webkit-transform: translateX(50%);
+            transform: translateX(50%);
+  }
+  99% {
+    -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+}

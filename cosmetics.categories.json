@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "65846ac9467a27e3a54bde03"
+  },
+  "category": "Skin Care",
+  "categoryImage": {
+    "fieldname": "categoryImage",
+    "originalname": "face.jpg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "./Products",
+    "filename": "face.jpg",
+    "path": "Products\\face.jpg",
+    "size": 104087
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65846b11467a27e3a54bde05"
+  },
+  "category": "make-up",
+  "categoryImage": {
+    "fieldname": "categoryImage",
+    "originalname": "eyes.jpg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "./Products",
+    "filename": "eyes.jpg",
+    "path": "Products\\eyes.jpg",
+    "size": 146580
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65846b2a467a27e3a54bde07"
+  },
+  "category": "Hair care",
+  "categoryImage": {
+    "fieldname": "categoryImage",
+    "originalname": "hair care.jpg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "./Products",
+    "filename": "hair care.jpg",
+    "path": "Products\\hair care.jpg",
+    "size": 96277
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65846b50467a27e3a54bde09"
+  },
+  "category": "Fragrances",
+  "categoryImage": {
+    "fieldname": "categoryImage",
+    "originalname": "Fragrances.jpg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "./Products",
+    "filename": "Fragrances.jpg",
+    "path": "Products\\Fragrances.jpg",
+    "size": 90725
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658be31e5de6b0aae851fee7"
+  },
+  "category": "Personal Care",
+  "categoryImage": {
+    "fieldname": "categoryImage",
+    "originalname": "Personal Care.jpg",
+    "encoding": "7bit",
+    "mimetype": "image/jpeg",
+    "destination": "./Products",
+    "filename": "Personal Care.jpg",
+    "path": "Products\\Personal Care.jpg",
+    "size": 70143
+  },
+  "__v": 0
+}]

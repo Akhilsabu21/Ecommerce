@@ -1,0 +1,6 @@
+.deletemsg{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    transition: .8s;
+}
